@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Nupur Chaube
 
-You can use the [editor on GitHub](https://github.com/nupurchaube/nupurchaube/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Senior Content Lead, Edgeverve Systems Limited.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
